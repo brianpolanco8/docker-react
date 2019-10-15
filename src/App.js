@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was change on the feature branch twice
+          I was change on the feature branch three times
         </a>
       </header>
     </div>
